@@ -9,7 +9,6 @@ These are the current open positions at ArangoDB. If you want to join us on this
 * [DevOps Engineer](https://careers.arangodb.com/p/a4669cdeefaa01-devops-engineer-ci-cd-f-m)
 
 - [PreSales / Solution Architect - East Coast](https://careers.arangodb.com/p/d47715da1e8c01-pre-sales-solution-architect-m-f--east-coast)
-- [Technical Support Engineer - East Coast](https://careers.arangodb.com/p/9ba6bba51a8e01-senior-technical-engineer-m-f--east-coast)
 
 * [Sales Rep - EMEA](https://careers.arangodb.com/p/f061e2535fbf01-sales-executive-m-f-x--emea)  
 * [Senior Technical Support Engineer - United States](https://careers.arangodb.com/p/5e16b284884501-senior-technical-support-engineer-m-f-x--united-states)  

@@ -8,10 +8,9 @@ These are the current open positions at ArangoDB. If you want to join us on this
 * [UX/UI Developer](https://careers.arangodb.com/p/bcff55d7f4d501-ui-designer-developer-m-f)
 * [DevOps Engineer](https://careers.arangodb.com/p/a4669cdeefaa01-devops-engineer-ci-cd-f-m)
 
+- [Senior Technical Support Engineer - United States](https://careers.arangodb.com/p/5e16b284884501-senior-technical-support-engineer-m-f-x--united-states)  
 - [PreSales / Solution Architect - East Coast](https://careers.arangodb.com/p/d47715da1e8c01-pre-sales-solution-architect-m-f--east-coast)
-
-* [Sales Rep - EMEA](https://careers.arangodb.com/p/f061e2535fbf01-sales-executive-m-f-x--emea)  
-* [Senior Technical Support Engineer - United States](https://careers.arangodb.com/p/5e16b284884501-senior-technical-support-engineer-m-f-x--united-states)  
+- [Sales Rep - EMEA](https://careers.arangodb.com/p/f061e2535fbf01-sales-executive-m-f-x--emea)  
 
 Our headquarter ArangoDB Inc. is in San Francisco (US), our secondary location is in Cologne (Germany) and our diverse team includes workmates at remote locations worldwide. So do you prefer your desk at home or do you want to join our modern family at one of our locations? Your choice.
 

@@ -21,5 +21,5 @@ Our headquarter is in San Francisco (US), our development hub is in Cologne (Ger
 
 If you want to find out more about our [ArangoDB Team](https://arangodb.com/about-arangodb) and what we are passionate about, go to our [Career Website](https://careers.arangodb.com).
 
-Got any questions? Feel free to get in contact with our Talent Acquisition Manager:
+Got any questions? Feel free to get in contact with our Talent Acquisition Manager:\
 gudrun@arangodb.com

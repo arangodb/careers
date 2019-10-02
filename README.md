@@ -9,7 +9,7 @@ These are the current open positions at ArangoDB. If you want to join us on this
 
 - [Database Support Engineer](https://careers.arangodb.com/p/8ed4bf1f76a001-senior-technical-support-engineer-us-east-coast)  
 - [Sales Rep - US East Coast](https://careers.arangodb.com/p/39c9d42c653201-sales-executive-us-east-coast)  
-- [Solution Architect - US East Coast)(https://careers.arangodb.com/p/93923646d1bf01-solution-architect-us-east-coast)  
+- [Solution Architect - US East Coast](https://careers.arangodb.com/p/93923646d1bf01-solution-architect-us-east-coast)  
 - [Solution Architect - US West Coast](https://careers.arangodb.com/p/3393152289f901-solution-architect-us-west-coast)  
 
 Our headquarter is in San Francisco (US), our development hub is in Cologne (Germany) and our diverse team includes workmates at remote locations worldwide. So do you prefer your desk at home or do you want to join our modern family at one of our locations? Your choice.
